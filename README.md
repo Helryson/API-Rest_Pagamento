@@ -14,7 +14,7 @@ GET http://localhost:8080/validarUsuario/21111111112 (retorna true)
 POST http://localhost:8080/transaction?quantia=20&CpfPagador=21111111112&CpfRecebedor=11111111111 (não há retorno, mas para que haja algum no /envio é preciso utilizar esse request
 
 
-POST http://localhost:8080/envio(retorna JSON com email do recebedor e mensagem de confirmação da transação)
+POST http://localhost:8080/envio Retorna JSON com email do recebedor e mensagem de confirmação da transação
 
 
 A criação das tabelas no banco de dados H2 é feita de forma automática. O endpoint de acesso é localhost:8080/h2-console e a URL de conexão é dada no console de inicialização.
