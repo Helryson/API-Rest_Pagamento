@@ -21,3 +21,10 @@ A criação das tabelas no banco de dados H2 é feita de forma automática. O en
 A url sempre é gerada aleatoriamente.
 
 Um exemplo seria:  H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:526b54ef-5604-4dee-bafc-7ca1378ed2c4', onde jdbc:h2:mem:526b54ef-5604-4dee-bafc-7ca1378ed2c4 seria a URL.
+***
+# Tecnologias utilizadas:
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
